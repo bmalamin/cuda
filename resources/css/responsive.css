@@ -1,0 +1,20 @@
+@media screen and (max-width: 1199.98px){
+    .hero-text-box{
+        width:80%;
+    }
+}
+
+@media screen and (max-width: 991.98px){
+    .row{
+        width:100%;
+        padding:0 40px;
+    }
+     
+    .hero-text-box{
+        width:80%;
+    }
+    
+      .span_2_of_2 {
+        width: 49.2%;
+      }
+}
